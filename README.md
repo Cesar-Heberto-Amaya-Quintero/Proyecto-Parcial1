@@ -1,13 +1,13 @@
 # Proyecto-Parcial1
 ### Contenido
 En el proyecto se puede encontrar un shader para el render de un personaje en 3D el cual contiene las siguientes características:
-•	Contiene un color albedo par la iluminación.
-•	Soporta un mapa de textura y un mapa de normales.
-•	Controlar la intensidad del mapa de normal.
-•	Esta basado en Lambert y se le puede agregar un efecto de Phong (el cual nos permite obtener el sombreado de la superficie).
-•	Cuenta con un Phong color para cambiar de color el brillo.
-•	Efecto Rim (permite emitir la luz alrededor de la superficie).
-•	Cuenta con un Ramp Texture utilizando la técnica Banded.
++	Contiene un color albedo par la iluminación.
++	Soporta un mapa de textura y un mapa de normales.
++	Controlar la intensidad del mapa de normal.
++	Esta basado en Lambert y se le puede agregar un efecto de Phong (el cual nos permite obtener el sombreado de la superficie).
++	Cuenta con un Phong color para cambiar de color el brillo.
++	Efecto Rim (permite emitir la luz alrededor de la superficie).
++	Cuenta con un Ramp Texture utilizando la técnica Banded.
 
 ### Herramientas
 •	Unity 3D
