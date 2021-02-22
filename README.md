@@ -1,5 +1,5 @@
 # Proyecto-Parcial1
-###Contenido
+### Contenido
 En el proyecto se puede encontrar un shader para el render de un personaje en 3D el cual contiene las siguientes características:
 •	Contiene un color albedo par la iluminación.
 •	Soporta un mapa de textura y un mapa de normales.
@@ -9,7 +9,7 @@ En el proyecto se puede encontrar un shader para el render de un personaje en 3D
 •	Efecto Rim (permite emitir la luz alrededor de la superficie).
 •	Cuenta con un Ramp Texture utilizando la técnica Banded.
 
-###Herramientas
+### Herramientas
 •	Unity 3D
 •	Visual Studio Code usando HLSL
 Desarrollo
